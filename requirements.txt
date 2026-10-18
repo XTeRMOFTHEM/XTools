@@ -1,0 +1,4 @@
+# Optional dependencies — only needed for imgpress and pdfsmith.
+# filemux, dedupe, dbtool and netcheck are pure standard library.
+pillow>=10.0
+pypdf>=4.0
